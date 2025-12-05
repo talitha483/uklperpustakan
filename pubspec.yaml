@@ -1,0 +1,54 @@
+name: custom_carousel_app
+description: A Flutter app with custom carousel and local assets.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/img1.jpeg
+    - assets/images/img2.jpeg
+    - assets/images/atm.jpeg
+    - assets/images/my.jpeg
+    - assets/images/sp.jpg
+    - assets/images/1.jpeg
+    - assets/images/2.jpeg
+    - assets/images/3.jpeg
+    - assets/images/4.jpg
+    - assets/images/aj.jpeg
+    - assets/images/mi.jpeg
+    - assets/images/hujan.jpeg
+    - assets/images/lt.jpeg
+    - assets/images/ng.jpeg
+    - assets/images/ck.jpeg
+    - assets/images/tg.jpeg
+    - assets/images/neg.jpeg
+    - assets/images/va.jpeg
+    - assets/images/lg1.jpeg
+    - assets/images/lg2.jpeg
+    - assets/images/PF.jpeg
+    - assets/images/bk.jpg
+    - assets/images/bkb.jpeg
+    - assets/images/spll.jpg
+
+
+
+    
+    
